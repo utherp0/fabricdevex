@@ -1,0 +1,7 @@
+name: ocpintro
+title: Introduction to OpenShift Course
+version: 4.11
+nav:
+  - modules/ROOT/nav.adoc
+
+start_page: ROOT:index.adoc
