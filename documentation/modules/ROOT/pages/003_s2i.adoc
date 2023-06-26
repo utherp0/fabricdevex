@@ -101,7 +101,7 @@ First note that there is a pulldown at the top of the form titled *Builder Image
 OpenJDK Red Hat ships OpenJDK 17, 11 and 8 as options (the last part of the Image name refers to the underlying OS used in the framework Container - for instance
 *-ubi8* indicates that the composite Image will be underpinned using the lightweight 'Universal Base Image' for RHEL8).
 
-**Select the openjdk-11-ubi8 framework image** - this version is needed for the application to work
+*Select the openjdk-11-ubi8 framework image* - this version is needed for the application to work
 
 image::003-image003.png[Framework Dialog,width=400px]
 
